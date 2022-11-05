@@ -1,0 +1,9 @@
+{
+	"ip":"CrystalMinigame.aternos.me",
+	"port": 22290,
+	"name": "nothin",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (696969(remember_no_spaces))",
+	"login-cmd":"/login (696969)"
+}
